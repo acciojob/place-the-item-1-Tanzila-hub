@@ -1,11 +1,11 @@
 
-.flex-container{
+.holder{
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-between;
     align-content: center;
-    `.holder`,
+    
     
 }
 .flex-item{
